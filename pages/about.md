@@ -16,7 +16,7 @@ I’m currently completing a Professional Certificate in Data Analytics at Imper
 
 
 ## I have the following Goals
-To transition into a Data Product Manager role, combining business knowledge with data-driven decision making.
+- To transition into a Data Product Manager role, combining business knowledge with data-driven decision making.
 
 ## These are my Interests
-Payments, analytics, optimisation, and personal development.
+- Payments, analytics, optimisation, and personal development.

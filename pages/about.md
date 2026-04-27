@@ -10,6 +10,8 @@ Hi, I’m Mark.
 
 I work in payments at Barclays, focusing on data, fraud systems, and process improvement. 
 I’m currently completing a Professional Certificate in Data Analytics at Imperial College.
+I live in Leicestershire.
+I support Coventry City and the Scotland Rugby Union Team!
 
 ## Check out my Blog Page!
 

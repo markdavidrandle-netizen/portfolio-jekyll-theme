@@ -99,7 +99,7 @@ Instead, future modelling will focus on:
 - The dataset is **clean and ready for modelling**, with no missing or duplicate data  
 - Fraud detection is complicated by **severe class imbalance**  
 - Transaction behaviour varies significantly by category  
-- Simple metrics like accuracy will be misleading in this context  
+- Simple metrics like accuracy will be misleading in this context
 
 ---
 

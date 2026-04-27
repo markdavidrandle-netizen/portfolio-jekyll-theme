@@ -11,6 +11,8 @@ Hi, I’m Mark.
 I work in payments at Barclays, focusing on data, fraud systems, and process improvement. 
 I’m currently completing a Professional Certificate in Data Analytics at Imperial College.
 
+## Check out my Blog Page!
+
 ## I have completed the following Projects
 - BankSIM fraud detection using machine learning
   

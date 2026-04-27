@@ -13,7 +13,10 @@ I’m currently completing a Professional Certificate in Data Analytics at Imper
 
 ## I have completed the following Projects
 - BankSIM fraud detection using machine learning
-
+  
+## Education
+- BSc Hons Chemisty University of Livepool
+- MBA Warwick Business School
 
 ## I have the following Goals
 - To transition into a Data Product Manager role, combining business knowledge with data-driven decision making.

@@ -6,4 +6,17 @@ permalink: /about
 
 # Portfolio Jekyll Theme
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+Hi, I’m Mark.
+
+I work in payments at Barclays, focusing on data, fraud systems, and process improvement. 
+I’m currently completing a Professional Certificate in Data Analytics at Imperial College.
+
+## Projects
+- BankSIM fraud detection using machine learning
+- Data wrangling and feature engineering
+
+## Goals
+To transition into a Data Product Manager role, combining business knowledge with data-driven decision making.
+
+## Interests
+Payments, analytics, optimisation, and personal development.
